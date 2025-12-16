@@ -1,0 +1,5 @@
+{
+  "name": "Extrator de Dados Imobiliários",
+  "description": "Analisa contratos em PDF e gera relatórios Excel com dados de compradores, renda e imóvel.",
+  "requestFramePermissions": []
+}
